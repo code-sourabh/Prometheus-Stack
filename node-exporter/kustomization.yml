@@ -1,0 +1,3 @@
+resources:
+  - "./daemonset.yml"
+  - "./node-exporter-cluster.role.yml"
